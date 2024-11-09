@@ -43,7 +43,7 @@ more than just one line
 """
 print("Hello, World!")
 
-## Python Variables
+# Python Variables
 
 ### Variables 
 Variables are containers for storing data values.
@@ -62,4 +62,19 @@ y = "John"
 print(type(x))
 print(type(y))
 
+### Single or Double Quotes?
+String variables can be declared either by using single or double quotes: the output will be tehh same in double and single quote
+
+ex - x = "John"
+// is the same as
+x = 'John'
+
+## Variable Names
+
+A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:\
+A variable name must start with a letter or the underscore character\
+A variable name cannot start with a number\
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )\
+Variable names are case-sensitive (age, Age and AGE are three different variables)\
+A variable name cannot be any of the Python keywords.\
 
