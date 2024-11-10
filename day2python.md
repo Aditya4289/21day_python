@@ -9,7 +9,7 @@ Python has the following data types built-in by default, in these categories:
 
 Text Type:	str <br>
 Numeric Types:	int, float, complex
-Sequence Types:	list, tuple, range
+Sequence Types:	list, tuple, range<br>
 Mapping Type:	dict
 Set Types:	set, frozenset
 Boolean Type:	bool
