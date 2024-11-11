@@ -224,3 +224,14 @@ c = a + b
 print(c)
 output - HelloWorld
 
+Example - 
+To add a space between them, add a " ":
+
+a = "Hello"
+b = "World"
+c = a + " " + b
+print(c)
+output - Hello World
+
+
+
