@@ -158,10 +158,28 @@ Get the characters:
 
 From: "o" in "World!" (position -5)
 
+## Python - Modify Strings
 
+Python has a set of built-in methods that you can use on strings.
 
 To, but not included: "d" in "World!" (position -2):
 
 b = "Hello, World!"
 print(b[-5:-2])
 output - orl
+
+### Upper Case
+ExampleGet your own Python Server
+The upper() method returns the string in upper case:
+
+a = "Hello, World!"
+print(a.upper())
+output - HELLO, WORLD!
+
+### Lower Case
+Example
+The lower() method returns the string in lower case:
+
+a = "Hello, World!"
+print(a.lower())
+
