@@ -1,2 +1,11 @@
 ## Functions can Return a Boolean
 You can create functions that returns a Boolean Value:
+
+example--
+Print the answer of a function:
+
+def myFunction() :
+  return True
+
+print(myFunction())
+output -true
