@@ -29,6 +29,26 @@ Example
 Check if an object is an integer or not:
 
 x = 200
+
 print(isinstance(x, int))
 output - true
 
+# Python Operators
+
+Operators are used to perform operations on variables and values.
+
+In the example below, we use the + operator to add together two values:
+
+ExampleGet your own Python Server
+print(10 + 5)
+output - 15
+
+Python divides the operators in the following groups:
+
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Identity operators
+- Membership operators
+- Bitwise operators
