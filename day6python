@@ -64,3 +64,6 @@ Operator	Name	Example
 %	Modulus	x % y	
 **	Exponentiation	x ** y	
 //	Floor division	x // y
+
+## Python Assignment Operators
+Assignment operators are used to assign values to variables:
